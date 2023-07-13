@@ -27,3 +27,35 @@ Apresentarei as seguintes opções:
 - Cancelar: Você deve mostrar uma mensagem de "Programa concluído"
   
 Utilizando o método showConfirmDialog para o usuário que deseja seguir no programa para outra conversão, em caso contrário, se optar por não seguir, utilizei o showMessageDialog para encerrar o programa.
+
+| Tela inicial conversor moeda 
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/a2c96390-aec2-4d12-bd4e-1d52de6b07b7)
+
+| Tela opções para conversão
+
+ ![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/d633c145-c245-42b4-904f-703024290fa4)
+
+ | Tela opções para conversão
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/1bf536b9-3ba1-4917-9182-d4ba5d54143a)          ![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/ff08dd2e-b4eb-401d-9642-4b1894a9a17e)
+
+
+ | Tela apresentação do resultado
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/2a790118-16b0-477f-bf33-35d0ae3caf5d)
+
+ | Tela opção ao usuário para outra conversão
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/fd2b258c-ea97-4ef4-87dc-ea112e098fd5)
+
+ | Tela opção (Não) do usuário para finalizar
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/84878e68-c5f7-4165-b5cc-505e27b78540)
+
+ | Tela opção (Cancelar) do usuário
+
+![image](https://github.com/elianecamargos/Challenge-ONE---Conversor-de-Moedas/assets/128428865/6ebb4818-24a6-47a1-abfd-f48cf499c147)
+
+
+
